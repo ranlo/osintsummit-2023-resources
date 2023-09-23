@@ -22,7 +22,7 @@
 ### Telegram
 
 - [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg) - Customized search engine for Telegram posts
-- [Lyzem](https://lyzem.com/) - Telegram Search Enging
+- [Lyzem](https://lyzem.com/) - Telegram Search Engine
 
 ### Web, Internet Infrastructure
 
