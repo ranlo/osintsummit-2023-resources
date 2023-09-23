@@ -11,6 +11,7 @@
 - [Bulk Extractor](https://www.digitalforensicstips.com/2019/11/using-bulk-extractor-for-quick-osint.html) - Quickly extract data from dumps
 - [DocFetcher](https://docfetcher.sourceforge.io/en/index.html) - Index and extract data from documents stored locally
 - [EmEditor](https://www.emeditor.com/) - Windows Editor for large datasets
+- [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 # Search
 
