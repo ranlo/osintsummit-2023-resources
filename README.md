@@ -14,28 +14,31 @@
 
 # Search
 
-- [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg) - Customized search engine for Telegram posts
-- [Lyzem](https://lyzem.com/) - Telegram Search Enging
 - [DorkSearch](https://dorksearch.com/) - AI assisted construction of Google Dorks
 - [Google Alerts](https://www.google.com/alerts) - Set up alerts to be notified when updates appear about selected keywords. Useful for reputation monitoring
 - [WhatsMyName](https://whatsmyname.app/) - Search for username on 600+ platforms
 - [OpenCellId](https://www.opencellid.org/) - Cell Towers Database
-- [SpyOnWeb](https://spyonweb.com/) - Link websites by URL, IP Address, pub-xxxxxxxxxx or UA-xxxxxxx
-- [BGP Search](https://bgp.he.net/) - IP Addresses, ASNs, CIDRs
 
-## Web scanners
+### Telegram
+
+- [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg) - Customized search engine for Telegram posts
+- [Lyzem](https://lyzem.com/) - Telegram Search Enging
+
+### Web, Internet Infrastructure
 
 - [Censys](https://search.censys.com) - Censys. Internet Intelligence Platform. Shodan-like.
 - [Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - Big list of Shodan queries
 - [Netlas](https://netlas.io/) - Web Scanner. Shodan-like.
+- [SpyOnWeb](https://spyonweb.com/) - Link websites by URL, IP Address, pub-xxxxxxxxxx or UA-xxxxxxx
+- [BGP Search](https://bgp.he.net/) - IP Addresses, ASNs, CIDRs
 
-## Phone number
+### Phone number
 
 - [TrueCaller](https://www.truecaller.com/)
 - [CallApp](https://callapp.com/) - Alternative to TrueCaller
 - [Eipeos](https://epieos.com/) - Another Alternative to TrueCaller
 
-## Backlinks
+### Backlinks
 
 - [Host.io Backlinks](https://host.io/backlinks/) - Analyze backlinks between domains
 - [Ahrefs Backlinks](https://ahrefs.com/backlink-checker)
