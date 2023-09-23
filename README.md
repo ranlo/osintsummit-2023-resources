@@ -1,25 +1,15 @@
 # Wizards, Utilities and Helpers
 
 [WGetWizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - Control all those elusive wget command line parameters from a friendly html page.
-
 [PDF24](https://www.pdf24.org/en/) - PDF Swiss Knife
-
 [Tabula](https://tabula.technology/) - Extract tables from PDFs
-
 [PyTesseract](https://pypi.org/project/pytesseract/) - Python wrapper around the Tesseract OCR tool
-
 [Regex101](https://regex101.com/) - Write, Test and Debug regular expressions in your browser
-
 [RegexPal](https://www.regexpal.com/) - Write, Test and Debug regular expressions in your browser
-
 [pythex](https://pythex.org/) - Python Regular Expressions
-
 [HowToFind](https://telegram.me/HowToFindRobot) - Telegram bot. Claims to assist with automating searches in 1000+ sources. **Subscription**
-
 [Bulk Extractor](https://www.digitalforensicstips.com/2019/11/using-bulk-extractor-for-quick-osint.html) - Quickly extract data from dumps
-
 [DocFetcher](https://docfetcher.sourceforge.io/en/index.html) - Index and extract data from documents stored locally
-
 [EmEditor](https://www.emeditor.com/) - Windows Editor for large datasets
 
 # Search
