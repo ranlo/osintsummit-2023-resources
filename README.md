@@ -86,7 +86,7 @@
 # Reporting Tools and Methodologies
 
 - [Obsidian](https://obsidian.md/) - Obsidian is the private and flexible writing app that adapts to the way you think
-- [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
+- [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) - by WebBreacher
 - [Report Assessment Framework](https://docs.google.com/spreadsheets/d/1ka2rcMAmiUgDKIiTxXNS5cB0poax8C-GCC2Gl1_sRmY/edit#gid=0) - from [CheckFirstHQ.com](CheckFirstHQ.com)
 - [Research Pitch Template](https://docs.google.com/document/d/187P17tFE_rOrzLb2oA2vCPqNqoGP3gkSTrSLV5mwAhs/edit)
 
@@ -106,7 +106,7 @@
 - [GitMind](https://gitmind.com/)
 - [XMind](https://xmind.works)
 - [Obsidian](https://obsidian.md/) 
-- [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates)
+- [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) - by WebBreacher
 
 # Books
 
