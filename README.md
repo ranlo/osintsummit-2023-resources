@@ -1,8 +1,8 @@
 # Wizards, Utilities and Helpers
 
-[WGetWizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - Control all those elusive wget command line parameters from a friendly html page.
-[PDF24](https://www.pdf24.org/en/) - PDF Swiss Knife
-[Tabula](https://tabula.technology/) - Extract tables from PDFs
+- [WGetWizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) - Control all those elusive wget command line parameters from a friendly html page.
+- [PDF24](https://www.pdf24.org/en/) - PDF Swiss Knife
+- [Tabula](https://tabula.technology/) - Extract tables from PDFs
 [PyTesseract](https://pypi.org/project/pytesseract/) - Python wrapper around the Tesseract OCR tool
 [Regex101](https://regex101.com/) - Write, Test and Debug regular expressions in your browser
 [RegexPal](https://www.regexpal.com/) - Write, Test and Debug regular expressions in your browser
