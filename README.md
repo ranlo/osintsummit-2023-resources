@@ -66,8 +66,8 @@
 
 # Legal and Govt. Public Records
 
-- [https://www.brbpublications.com/free-resources/public-record-sites]
-- [https://www.courtlistener.com/recap/]
+- [brbpublications](https://www.brbpublications.com/free-resources/public-record-sites)
+- [CourtListener](https://www.courtlistener.com/recap/)
 - [Broadcastify](https://www.broadcastify.com/) - Live audio feeds of Police, Emergency, Public Safety, Aircraft, Marine, etc. Worldwide.
 - [JudyRecords](https://www.judyrecords.com/) - Search U.S. court cases
 - [PACER](https://pacer.uscourts.gov/) - U.S. Court cases
@@ -75,7 +75,7 @@
 
 # Paywall Bypass
 
-- [Paywall Hopper](http://12ft.io/)
+- [Paywall Hopper](http://12ft.io/) - Bypass Paywalls
 - [JavaScript Toggle](https://chrome.google.com/webstore/detail/one-click-javascript-togg/ahjfodbngfpdppljbkhcfhcfdagfgcnj) - One click JavaScript toggler. May help bypass paywall
 
 # Local resources
