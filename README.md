@@ -28,7 +28,7 @@
 ### Web, Internet Infrastructure
 
 - [Censys](https://search.censys.com) - Censys. Internet Intelligence Platform. Shodan-like.
-- [Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - Big list of Shodan queries
+- [Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - Big list of Shodan queries. Github repo.
 - [Netlas](https://netlas.io/) - Web Scanner. Shodan-like.
 - [SpyOnWeb](https://spyonweb.com/) - Link websites by URL, IP Address, pub-xxxxxxxxxx or UA-xxxxxxx
 - [BGP Search](https://bgp.he.net/) - IP Addresses, ASNs, CIDRs
